@@ -1,0 +1,25 @@
+.Sunset Dolphins {
+	background-image: url('Lab 9 Images/background image.jpg');
+	font-size: 6rem;
+	color: orange;
+	max-width: 50%;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 6rem;
+}	
+
+.my-heading {
+    font-family: impact;
+    text-align: center;
+    font-size: 5rem;
+    color: #900C3F;
+    text-decoration: underline;
+}
+
+p {
+	font-family: verdana;
+	background: #581845;
+	color: black; 
+  font-size: 1.5rem;
+} 
